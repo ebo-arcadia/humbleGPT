@@ -1,3 +1,4 @@
+// disabled API key for security reason
 const API_KEY = "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";
 
 const submitButton = document.querySelector("#submit");
